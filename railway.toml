@@ -1,7 +1,0 @@
-[build]
-   builder = "nixpacks"
-   buildCommand = "cd backend && pip3 install flask flask_cors gunicorn"
-   
-   [deploy]
-   startCommand = "cd backend && gunicorn api:app"
-   restartPolicyType = "on_failure"
