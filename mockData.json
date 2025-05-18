@@ -1,0 +1,41 @@
+
+{
+  "tasks": [
+    {
+      "id": "task-1",
+      "title": "Research project requirements",
+      "description": "Gather all necessary information for the upcoming project",
+      "status": "todo"
+    },
+    {
+      "id": "task-2",
+      "title": "Design user interface",
+      "description": "Create wireframes and mockups for the application",
+      "status": "todo"
+    },
+    {
+      "id": "task-3",
+      "title": "Implement login functionality",
+      "description": "Add authentication system to the application",
+      "status": "inProgress"
+    },
+    {
+      "id": "task-4",
+      "title": "Write documentation",
+      "description": "Document the API endpoints and usage instructions",
+      "status": "inProgress"
+    },
+    {
+      "id": "task-5",
+      "title": "Fix navigation bug",
+      "description": "Address the issue with menu navigation on mobile devices",
+      "status": "done"
+    },
+    {
+      "id": "task-6",
+      "title": "Deploy to staging environment",
+      "description": "Prepare and deploy the app to the staging server",
+      "status": "done"
+    }
+  ]
+}
